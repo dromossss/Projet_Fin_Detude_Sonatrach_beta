@@ -1,0 +1,30 @@
+Explication programmes (prog01 - prog02 - prog03 - progDoublons)
+
+***PROG01: Crée une fenetre Tkinter pour permettre a l'utilisateur de choisir deux fichiers (sous format Excel) a combiner.
+Le programme ensuite lis les fichiers choisi dans des dataFrame distincts et les combines verticalement.
+Ensuite il analyse le fichier et si trouve des cellules vides il remplace leurs valeurs par "VIDE".
+A la fin de ce programme, ce dernier enregistre la combinaisaon des deux fichiers sous forme excel avec le nom combined_file.
+
+****************************************************************************************************************************
+
+***PROG02: a l'aide de Tkinter, le programme crée une fenetre pour demander a l'utilisateur le nom de la cellule dans laquelle il veut ajouter une donnée sous le format (Alphabet, Number).
+Le programme ajoute la donnée introduite dans la cellule choisie.
+Le programme sauvegarde la modification de ce fichier. (a verifier car la fenetre s'ouvre mais aucune valeur n'est ajoutée)
+
+****************************************************************************************************************************
+
+***PROG03: Le programme 3 lis deux cellules des fichiers choisi.
+Ensuite il crée deux cellule, une ou il écrit le phrase "Total" Global (dans ce cas ci, c'est la cellule E9) et crée une cellule ou il affiche le montant totale (dans ce cas ci la cellule F9) dans le format 'Currency' et sauvegrde le fichier.
+
+****************************************************************************************************************************
+
+***PROGDOUBLONS: Le programme crée une fenetre Tkinter ou il demande a l'utilisateur de selectionner un fichier, puis il lui demande de choisir la colonne qu'il va analyser, il lis l'entierté de la colonne et trouve les doublons et les mets en evidence (with highliths) .
+Ensuite il sauvegarde le nouveau fichier modifié en format Excel.
+
+
+
+programme pricnipale qui fait appel aux fonctions crees (programmes), il applique les traitements, a la'ide dun repertoire uequel endi accees lih, une successions de traitement, un prog principale qui fait appels aux fonctions
+
+chercher liaison base de données php html, liaison base de données avec programme
+(pdo informatique)
+(connect sql)
